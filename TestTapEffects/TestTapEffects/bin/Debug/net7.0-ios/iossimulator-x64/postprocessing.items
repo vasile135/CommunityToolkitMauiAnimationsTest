@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="TestTapEffects.app/TestTapEffects">
+      <BCSymbolMapName>TestTapEffects.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>TestTapEffects.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/hetzner/Desktop/CommunityToolkitMauiAnimationsTest/TestTapEffects/TestTapEffects/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>TestTapEffects.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/hetzner/Desktop/CommunityToolkitMauiAnimationsTest/TestTapEffects/TestTapEffects</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
